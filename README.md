@@ -1,6 +1,6 @@
 # App Jogo da Velha
 
-Atividade desenvolvida para o módulo III de Desenvolvimento WEB..
+Atividade desenvolvida para o módulo IV de Desenvolvimento WEB..
 
 ## Vamos jogar?
 
