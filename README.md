@@ -1,16 +1,9 @@
-# myapp
+# App Jogo da Velha
 
-A new Flutter project.
+Atividade desenvolvida para o módulo III de Desenvolvimento WEB..
 
-## Getting Started
+## Vamos jogar?
 
-This project is a starting point for a Flutter application.
+Este projeto é um jogo da velha. Ele foi desenvolvido pensando em sua diversão e em seu entretenimento, por isso, é possível jogá-lo com outra pessoa ou contra a máquina.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Divirta-se!!
